@@ -1,0 +1,436 @@
+PottedTree {
+  translation 9.35 9.66 0
+  rotation 0 1 0 0
+  name "potted tree(3)"
+}
+PottedTree {
+  translation 8.37 9.66 0
+  rotation 0 1 0 0
+  name "potted tree(47)"
+}
+PottedTree {
+  translation 8.37 9.19 0
+  rotation 0 1 0 0
+  name "potted tree(48)"
+}
+PottedTree {
+  translation 8.37 8.68 0
+  rotation 0 1 0 0
+  name "potted tree(49)"
+}
+PottedTree {
+  translation 8.37 8.2 0
+  rotation 0 1 0 0
+  name "potted tree(50)"
+}
+PottedTree {
+  translation 8.37 7.73 0
+  rotation 0 1 0 0
+  name "potted tree(51)"
+}
+PottedTree {
+  translation 8.37 7.22 0
+  rotation 0 1 0 0
+  name "potted tree(52)"
+}
+PottedTree {
+  translation 8.37 6.7 0
+  rotation 0 1 0 0
+  name "potted tree(53)"
+}
+PottedTree {
+  translation 9.35 9.12 0
+  rotation 0 1 0 0
+  name "potted tree(4)"
+}
+PottedTree {
+  translation 9.35 8.58 0
+  rotation 0 1 0 0
+  name "potted tree(5)"
+}
+PottedTree {
+  translation 9.35 8.07 0
+  rotation 0 1 0 0
+  name "potted tree(6)"
+}
+PottedTree {
+  translation 9.35 7.62 0
+  rotation 0 1 0 0
+  name "potted tree(7)"
+}
+PottedTree {
+  translation 9.35 7.07 0
+  rotation 0 1 0 0
+  name "potted tree(8)"
+}
+PottedTree {
+  translation 9.35 6.57 0
+  rotation 0 1 0 0
+  name "potted tree(9)"
+}
+PottedTree {
+  translation 9.35 6.07 0
+  rotation 0 1 0 0
+  name "potted tree(10)"
+}
+PottedTree {
+  translation 8.37 6.07 0
+  rotation 0 1 0 0
+  name "potted tree(54)"
+}
+PottedTree {
+  translation 9.35 5.56 0
+  rotation 0 1 0 0
+  name "potted tree(11)"
+}
+PottedTree {
+  translation 8.37 5.56 0
+  rotation 0 1 0 0
+  name "potted tree(55)"
+}
+PottedTree {
+  translation 8.37 5.05 0
+  rotation 0 1 0 0
+  name "potted tree(12)"
+}
+PottedTree {
+  translation 9.35 5.05 0
+  rotation 0 1 0 0
+  name "potted tree(56)"
+}
+PottedTree {
+  translation 9.35 4.51 0
+  rotation 0 1 0 0
+  name "potted tree(13)"
+}
+PottedTree {
+  translation 8.37 4.51 0
+  rotation 0 1 0 0
+  name "potted tree(57)"
+}
+PottedTree {
+  translation 8.37 4.04 0
+  rotation 0 1 0 0
+  name "potted tree(58)"
+}
+PottedTree {
+  translation 8.37 3.55 0
+  rotation 0 1 0 0
+  name "potted tree(59)"
+}
+PottedTree {
+  translation 8.37 3.09 0
+  rotation 0 1 0 0
+  name "potted tree(60)"
+}
+PottedTree {
+  translation 8.37 2.65 0
+  rotation 0 1 0 0
+  name "potted tree(61)"
+}
+PottedTree {
+  translation 8.37 2.12 0
+  rotation 0 1 0 0
+  name "potted tree(62)"
+}
+PottedTree {
+  translation 8.37 1.68 0
+  rotation 0 1 0 0
+  name "potted tree(63)"
+}
+PottedTree {
+  translation 8.37 1.23 0
+  rotation 0 1 0 0
+  name "potted tree(64)"
+}
+PottedTree {
+  translation 8.37 0.74 0
+  rotation 0 1 0 0
+  name "potted tree(66)"
+}
+PottedTree {
+  translation 8.37 0.26 0
+  rotation 0 1 0 0
+  name "potted tree(65)"
+}
+PottedTree {
+  translation 8.37 -0.22 0
+  rotation 0 1 0 0
+  name "potted tree(67)"
+}
+PottedTree {
+  translation 8.37 -0.69 0
+  rotation 0 1 0 0
+  name "potted tree(68)"
+}
+PottedTree {
+  translation 8.37 -1.16 0
+  rotation 0 1 0 0
+  name "potted tree(69)"
+}
+PottedTree {
+  translation 8.37 -1.63 0
+  rotation 0 1 0 0
+  name "potted tree(70)"
+}
+PottedTree {
+  translation 8.37 -2.09 0
+  rotation 0 1 0 0
+  name "potted tree(71)"
+}
+PottedTree {
+  translation 8.37 -2.58 0
+  rotation 0 1 0 0
+  name "potted tree(72)"
+}
+PottedTree {
+  translation 8.37 -3.51 0
+  rotation 0 1 0 0
+  name "potted tree(73)"
+}
+PottedTree {
+  translation 8.37 -3.93 0
+  rotation 0 1 0 0
+  name "potted tree(75)"
+}
+PottedTree {
+  translation 8.37 -4.36 0
+  rotation 0 1 0 0
+  name "potted tree(76)"
+}
+PottedTree {
+  translation 8.37 -4.84 0
+  rotation 0 1 0 0
+  name "potted tree(77)"
+}
+PottedTree {
+  translation 8.37 -5.26 0
+  rotation 0 1 0 0
+  name "potted tree(78)"
+}
+PottedTree {
+  translation 8.37 -6.16 0
+  rotation 0 1 0 0
+  name "potted tree(79)"
+}
+PottedTree {
+  translation 8.37 -6.65 0
+  rotation 0 1 0 0
+  name "potted tree(81)"
+}
+PottedTree {
+  translation 8.37 -7.1 0
+  rotation 0 1 0 0
+  name "potted tree(82)"
+}
+PottedTree {
+  translation 8.37 -7.57 0
+  rotation 0 1 0 0
+  name "potted tree(83)"
+}
+PottedTree {
+  translation 8.37 -8.11 0
+  rotation 0 1 0 0
+  name "potted tree(84)"
+}
+PottedTree {
+  translation 8.37 -8.63 0
+  rotation 0 1 0 0
+  name "potted tree(85)"
+}
+PottedTree {
+  translation 8.37 -9.08 0
+  rotation 0 1 0 0
+  name "potted tree(86)"
+}
+PottedTree {
+  translation 8.37 -9.59 0
+  rotation 0 1 0 0
+  name "potted tree(87)"
+}
+PottedTree {
+  translation 8.37 -10.11 0
+  rotation 0 1 0 0
+  name "potted tree(88)"
+}
+PottedTree {
+  translation 8.37 -10.55 0
+  rotation 0 1 0 0
+  name "potted tree(89)"
+}
+PottedTree {
+  translation 8.37 -11 0
+  rotation 0 1 0 0
+  name "potted tree(90)"
+}
+PottedTree {
+  translation 8.37 -5.73 0
+  rotation 0 1 0 0
+  name "potted tree(80)"
+}
+PottedTree {
+  translation 8.37 -3.04 0
+  rotation 0 1 0 0
+  name "potted tree(74)"
+}
+PottedTree {
+  translation 9.35 4.04 0
+  rotation 0 1 0 0
+  name "potted tree(14)"
+}
+PottedTree {
+  translation 9.35 3.56 0
+  rotation 0 1 0 0
+  name "potted tree(15)"
+}
+PottedTree {
+  translation 9.35 3.1 0
+  rotation 0 1 0 0
+  name "potted tree(16)"
+}
+PottedTree {
+  translation 9.35 2.61 0
+  rotation 0 1 0 0
+  name "potted tree(17)"
+}
+PottedTree {
+  translation 9.35 2.12 0
+  rotation 0 1 0 0
+  name "potted tree(18)"
+}
+PottedTree {
+  translation 9.35 1.66 0
+  rotation 0 1 0 0
+  name "potted tree(19)"
+}
+PottedTree {
+  translation 9.35 1.13 0
+  rotation 0 1 0 0
+  name "potted tree(20)"
+}
+PottedTree {
+  translation 9.35 0.6 0
+  rotation 0 1 0 0
+  name "potted tree(21)"
+}
+PottedTree {
+  translation 9.35 0.11 0
+  rotation 0 1 0 0
+  name "potted tree(22)"
+}
+PottedTree {
+  translation 9.35 -0.41 0
+  rotation 0 1 0 0
+  name "potted tree(23)"
+}
+PottedTree {
+  translation 9.35 -0.9 0
+  rotation 0 1 0 0
+  name "potted tree(24)"
+}
+PottedTree {
+  translation 9.35 -1.41 0
+  rotation 0 1 0 0
+  name "potted tree(25)"
+}
+PottedTree {
+  translation 9.35 -1.89 0
+  rotation 0 1 0 0
+  name "potted tree(26)"
+}
+PottedTree {
+  translation 9.35 -2.34 0
+  rotation 0 1 0 0
+  name "potted tree(27)"
+}
+PottedTree {
+  translation 9.35 -2.83 0
+  rotation 0 1 0 0
+  name "potted tree(28)"
+}
+PottedTree {
+  translation 9.35 -3.32 0
+  rotation 0 1 0 0
+  name "potted tree(29)"
+}
+PottedTree {
+  translation 9.35 -3.81 0
+  rotation 0 1 0 0
+  name "potted tree(30)"
+}
+PottedTree {
+  translation 9.35 -4.26 0
+  rotation 0 1 0 0
+  name "potted tree(31)"
+}
+PottedTree {
+  translation 9.35 -4.77 0
+  rotation 0 1 0 0
+  name "potted tree(32)"
+}
+PottedTree {
+  translation 9.35 -5.26 0
+  rotation 0 1 0 0
+  name "potted tree(33)"
+}
+PottedTree {
+  translation 9.35 -5.75 0
+  rotation 0 1 0 0
+  name "potted tree(34)"
+}
+PottedTree {
+  translation 9.35 -6.21 0
+  rotation 0 1 0 0
+  name "potted tree(35)"
+}
+PottedTree {
+  translation 9.35 -6.7 0
+  rotation 0 1 0 0
+  name "potted tree(36)"
+}
+PottedTree {
+  translation 9.35 -7.17 0
+  rotation 0 1 0 0
+  name "potted tree(37)"
+}
+PottedTree {
+  translation 9.35 -7.66 0
+  rotation 0 1 0 0
+  name "potted tree(38)"
+}
+PottedTree {
+  translation 9.35 -8.12 0
+  rotation 0 1 0 0
+  name "potted tree(39)"
+}
+PottedTree {
+  translation 9.35 -8.61 0
+  rotation 0 1 0 0
+  name "potted tree(40)"
+}
+PottedTree {
+  translation 9.35 -9.1 0
+  rotation 0 1 0 0
+  name "potted tree(41)"
+}
+PottedTree {
+  translation 9.35 -9.6 0
+  rotation 0 1 0 0
+  name "potted tree(42)"
+}
+PottedTree {
+  translation 9.35 -10.05 0
+  rotation 0 1 0 0
+  name "potted tree(43)"
+}
+PottedTree {
+  translation 9.35 -10.53 0
+  rotation 0 1 0 0
+  name "potted tree(44)"
+}
+PottedTree {
+  translation 9.35 -11.04 0
+  rotation 0 1 0 0
+  name "potted tree(45)"
+}
+
